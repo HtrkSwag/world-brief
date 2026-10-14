@@ -4,15 +4,20 @@ if(!site)throw Error('TCB_SITE_URL 未设置');
 const expected=JSON.parse(await fs.readFile(new URL('../dist/news.json',import.meta.url),'utf8'));
 const url=new URL('news.json',site);
 let lastError;
-for(let attempt=0;attempt<6;attempt++){
+const deadline=Date.now()+180000;
+console.log(JSON.stringify({site:url.href,expectedUpdated:expected.updated,expectedCount:expected.articles.length}));
+while(Date.now()<deadline){
  try{
-  const response=await fetch(url,{cache:'no-store',signal:AbortSignal.timeout(15000),headers:{Accept:'application/json'}});
+  const response=await fetch(url,{cache:'no-store',signal:AbortSignal.timeout(Math.max(1,Math.min(15000,deadline-Date.now()))),headers:{Accept:'application/json'}});
   if(!response.ok)throw Error('HTTP '+response.status);
   const remote=await response.json();
-  if(remote.updated!==expected.updated||remote.articles?.length!==expected.articles.length)throw Error('线上快照与本次采集结果不一致，可能尚未生效。');
+  if(remote.updated!==expected.updated||remote.articles?.length!==expected.articles.length)throw Error('线上快照尚未匹配：'+JSON.stringify({actualUpdated:remote.updated,actualCount:remote.articles?.length}));
   console.log(JSON.stringify({verified:true,updated:remote.updated,count:remote.articles.length}));
   process.exit(0);
  }catch(error){lastError=error;}
- if(attempt<5)await new Promise(resolve=>setTimeout(resolve,5000));
+ console.log(lastError.message);
+ const remaining=deadline-Date.now();
+ if(remaining>0)await new Promise(resolve=>setTimeout(resolve,Math.min(5000,remaining)));
 }
 throw lastError;
+
