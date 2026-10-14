@@ -1,6 +1,48 @@
 {
   "articles": [
     {
+      "id": "https://www.bbc.com/zhongwen/articles/crpdgz701dyzo/trad?at_medium=RSS&at_campaign=rss",
+      "title": "梵蒂岡證實教宗患上肺腺癌，但手術成功",
+      "summary": "梵蒂岡方面表示，教宗良十四世成功接受了右肺下葉切除手術。",
+      "url": "https://www.bbc.com/zhongwen/articles/crpdgz701dyzo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "category": "国际",
+      "published": "2026-10-14T04:37:43.000Z",
+      "day": "2026-10-14",
+      "collected": "2026-10-14T06:38:07.052Z",
+      "score": 40,
+      "topic": "全球动态",
+      "language": "中文"
+    },
+    {
+      "id": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
+      "title": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
+      "summary": "What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden.",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
+      "source": "NASA",
+      "category": "科技",
+      "published": "2026-10-14T04:05:00.000Z",
+      "day": "2026-10-14",
+      "collected": "2026-10-14T06:38:06.898Z",
+      "score": 20,
+      "topic": "全球动态",
+      "language": "英文"
+    },
+    {
+      "id": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/",
+      "title": "Hurricane Simon Lurks Off the Mexican Coast",
+      "summary": "Though it remained offshore, the storm lashed coastal areas with high winds and flooding—and produced remarkable rippling patterns in the upper atmosphere.",
+      "url": "https://science.nasa.gov/earth/earth-observatory/hurricane-simon-lurks-off-the-mexican-coast/",
+      "source": "NASA",
+      "category": "科技",
+      "published": "2026-10-14T04:01:00.000Z",
+      "day": "2026-10-14",
+      "collected": "2026-10-14T06:38:06.898Z",
+      "score": 20,
+      "topic": "全球动态",
+      "language": "英文"
+    },
+    {
       "id": "https://www.bbc.com/zhongwen/articles/c3n07pkpk5ggo/trad?at_medium=RSS&at_campaign=rss",
       "title": "台灣選舉解讀：「北藍南綠」的政治版圖是否「鐵板一塊」？",
       "summary": "「北藍南綠」是描述台灣政治版圖的常見概念，但近年選舉結果顯示，這樣的區域分野並非一成不變，中間選民的流向在這次地方選舉可能左右大局。",
@@ -9,7 +51,7 @@
       "category": "国际",
       "published": "2026-10-14T03:36:37.000Z",
       "day": "2026-10-14",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 40,
       "topic": "全球动态",
       "language": "中文"
@@ -23,7 +65,7 @@
       "category": "国际",
       "published": "2026-10-14T03:15:00.000Z",
       "day": "2026-10-14",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 40,
       "topic": "全球动态",
       "language": "中文"
@@ -37,7 +79,7 @@
       "category": "科技",
       "published": "2026-10-14T02:38:13.000Z",
       "day": "2026-10-14",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 40,
       "topic": "科技与太空",
       "language": "中文"
@@ -51,7 +93,7 @@
       "category": "国际",
       "published": "2026-10-14T00:17:23.000Z",
       "day": "2026-10-14",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 40,
       "topic": "全球动态",
       "language": "中文"
@@ -65,7 +107,7 @@
       "category": "国际",
       "published": "2026-10-14T00:17:20.000Z",
       "day": "2026-10-14",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 40,
       "topic": "全球动态",
       "language": "中文"
@@ -79,7 +121,7 @@
       "category": "科技",
       "published": "2026-10-13T20:41:11.000Z",
       "day": "2026-10-14",
-      "collected": "2026-10-14T03:44:09.074Z",
+      "collected": "2026-10-14T06:38:06.898Z",
       "score": 20,
       "topic": "科技与太空",
       "language": "英文"
@@ -93,7 +135,7 @@
       "category": "财经",
       "published": "2026-10-13T18:30:00.000Z",
       "day": "2026-10-14",
-      "collected": "2026-10-14T03:44:09.242Z",
+      "collected": "2026-10-14T06:38:07.138Z",
       "score": 20,
       "topic": "科技与太空",
       "language": "英文"
@@ -107,7 +149,7 @@
       "category": "财经",
       "published": "2026-10-13T18:00:00.000Z",
       "day": "2026-10-14",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 20,
       "topic": "全球动态",
       "language": "英文"
@@ -121,7 +163,7 @@
       "category": "科技",
       "published": "2026-10-13T17:56:08.000Z",
       "day": "2026-10-14",
-      "collected": "2026-10-14T03:44:09.074Z",
+      "collected": "2026-10-14T06:38:06.898Z",
       "score": 20,
       "topic": "科技与太空",
       "language": "英文"
@@ -135,7 +177,7 @@
       "category": "科技",
       "published": "2026-10-13T17:48:46.000Z",
       "day": "2026-10-14",
-      "collected": "2026-10-14T03:44:09.074Z",
+      "collected": "2026-10-14T06:38:06.898Z",
       "score": 20,
       "topic": "科技与太空",
       "language": "英文"
@@ -149,7 +191,7 @@
       "category": "科技",
       "published": "2026-10-13T17:42:51.000Z",
       "day": "2026-10-14",
-      "collected": "2026-10-14T03:44:09.074Z",
+      "collected": "2026-10-14T06:38:06.898Z",
       "score": 20,
       "topic": "科技与太空",
       "language": "英文"
@@ -163,7 +205,7 @@
       "category": "科技",
       "published": "2026-10-13T17:38:37.000Z",
       "day": "2026-10-14",
-      "collected": "2026-10-14T03:44:09.074Z",
+      "collected": "2026-10-14T06:38:06.898Z",
       "score": 20,
       "topic": "科技与太空",
       "language": "英文"
@@ -177,7 +219,7 @@
       "category": "科技",
       "published": "2026-10-13T17:16:00.000Z",
       "day": "2026-10-14",
-      "collected": "2026-10-14T03:44:09.074Z",
+      "collected": "2026-10-14T06:38:06.898Z",
       "score": 20,
       "topic": "科技与太空",
       "language": "英文"
@@ -191,7 +233,7 @@
       "category": "科技",
       "published": "2026-10-13T17:11:11.000Z",
       "day": "2026-10-14",
-      "collected": "2026-10-14T03:44:09.074Z",
+      "collected": "2026-10-14T06:38:06.898Z",
       "score": 20,
       "topic": "科技与太空",
       "language": "英文"
@@ -205,7 +247,7 @@
       "category": "科技",
       "published": "2026-10-13T15:02:21.000Z",
       "day": "2026-10-13",
-      "collected": "2026-10-14T03:44:09.074Z",
+      "collected": "2026-10-14T06:38:06.898Z",
       "score": 20,
       "topic": "科技与太空",
       "language": "英文"
@@ -219,7 +261,7 @@
       "category": "国际",
       "published": "2026-10-13T14:49:00.000Z",
       "day": "2026-10-13",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 40,
       "topic": "全球动态",
       "language": "中文"
@@ -233,7 +275,7 @@
       "category": "环境",
       "published": "2026-10-13T14:16:00.000Z",
       "day": "2026-10-13",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 60,
       "topic": "俄乌局势",
       "language": "中文"
@@ -247,7 +289,7 @@
       "category": "国际",
       "published": "2026-10-13T13:58:00.000Z",
       "day": "2026-10-13",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 40,
       "topic": "全球动态",
       "language": "中文"
@@ -261,7 +303,7 @@
       "category": "国际",
       "published": "2026-10-13T13:34:13.000Z",
       "day": "2026-10-13",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 40,
       "topic": "全球动态",
       "language": "中文"
@@ -275,7 +317,7 @@
       "category": "财经",
       "published": "2026-10-13T13:34:00.000Z",
       "day": "2026-10-13",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 60,
       "topic": "贸易与产业",
       "language": "中文"
@@ -289,7 +331,7 @@
       "category": "财经",
       "published": "2026-10-13T13:08:00.000Z",
       "day": "2026-10-13",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 40,
       "topic": "全球动态",
       "language": "中文"
@@ -317,7 +359,7 @@
       "category": "财经",
       "published": "2026-10-13T12:00:00.000Z",
       "day": "2026-10-13",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 40,
       "topic": "全球动态",
       "language": "中文"
@@ -331,7 +373,7 @@
       "category": "社会",
       "published": "2026-10-13T12:00:00.000Z",
       "day": "2026-10-13",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 60,
       "topic": "公共卫生",
       "language": "中文"
@@ -345,7 +387,7 @@
       "category": "国际",
       "published": "2026-10-13T12:00:00.000Z",
       "day": "2026-10-13",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 60,
       "topic": "全球动态",
       "language": "中文"
@@ -373,7 +415,7 @@
       "category": "财经",
       "published": "2026-10-13T11:08:00.000Z",
       "day": "2026-10-13",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 40,
       "topic": "全球动态",
       "language": "中文"
@@ -387,7 +429,7 @@
       "category": "国际",
       "published": "2026-10-13T09:55:53.000Z",
       "day": "2026-10-13",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 40,
       "topic": "全球动态",
       "language": "中文"
@@ -401,7 +443,7 @@
       "category": "国际",
       "published": "2026-10-13T09:04:11.000Z",
       "day": "2026-10-13",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 40,
       "topic": "全球动态",
       "language": "中文"
@@ -415,8 +457,8 @@
       "category": "国际",
       "published": "2026-10-13T05:31:07.000Z",
       "day": "2026-10-13",
-      "collected": "2026-10-14T03:44:09.099Z",
-      "score": 40,
+      "collected": "2026-10-14T06:38:07.052Z",
+      "score": 39,
       "topic": "全球动态",
       "language": "中文"
     },
@@ -429,8 +471,8 @@
       "category": "国际",
       "published": "2026-10-13T04:42:59.000Z",
       "day": "2026-10-13",
-      "collected": "2026-10-14T03:44:09.099Z",
-      "score": 40,
+      "collected": "2026-10-14T06:38:07.052Z",
+      "score": 39,
       "topic": "全球动态",
       "language": "中文"
     },
@@ -471,8 +513,8 @@
       "category": "国际",
       "published": "2026-10-13T03:56:00.000Z",
       "day": "2026-10-13",
-      "collected": "2026-10-14T03:44:08.810Z",
-      "score": 40,
+      "collected": "2026-10-14T06:38:06.974Z",
+      "score": 39,
       "topic": "全球动态",
       "language": "中文"
     },
@@ -485,7 +527,7 @@
       "category": "国际",
       "published": "2026-10-13T00:12:26.000Z",
       "day": "2026-10-13",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 39,
       "topic": "全球动态",
       "language": "中文"
@@ -499,7 +541,7 @@
       "category": "国际",
       "published": "2026-10-13T00:12:19.000Z",
       "day": "2026-10-13",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 39,
       "topic": "贸易与产业",
       "language": "中文"
@@ -527,7 +569,7 @@
       "category": "国际",
       "published": "2026-10-12T14:21:00.000Z",
       "day": "2026-10-12",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 39,
       "topic": "全球动态",
       "language": "中文"
@@ -541,7 +583,7 @@
       "category": "财经",
       "published": "2026-10-12T14:11:00.000Z",
       "day": "2026-10-12",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 39,
       "topic": "贸易与产业",
       "language": "中文"
@@ -555,7 +597,7 @@
       "category": "国际",
       "published": "2026-10-12T13:04:00.000Z",
       "day": "2026-10-12",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 39,
       "topic": "全球动态",
       "language": "中文"
@@ -569,7 +611,7 @@
       "category": "财经",
       "published": "2026-10-12T12:43:00.000Z",
       "day": "2026-10-12",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 39,
       "topic": "全球动态",
       "language": "中文"
@@ -583,7 +625,7 @@
       "category": "国际",
       "published": "2026-10-12T12:37:00.000Z",
       "day": "2026-10-12",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 39,
       "topic": "全球动态",
       "language": "中文"
@@ -597,7 +639,7 @@
       "category": "国际",
       "published": "2026-10-12T12:00:00.000Z",
       "day": "2026-10-12",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 39,
       "topic": "全球动态",
       "language": "中文"
@@ -611,7 +653,7 @@
       "category": "国际",
       "published": "2026-10-12T12:00:00.000Z",
       "day": "2026-10-12",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 39,
       "topic": "全球动态",
       "language": "中文"
@@ -625,7 +667,7 @@
       "category": "国际",
       "published": "2026-10-12T12:00:00.000Z",
       "day": "2026-10-12",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 39,
       "topic": "全球动态",
       "language": "中文"
@@ -639,7 +681,7 @@
       "category": "国际",
       "published": "2026-10-12T12:00:00.000Z",
       "day": "2026-10-12",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 39,
       "topic": "全球动态",
       "language": "中文"
@@ -653,7 +695,7 @@
       "category": "社会",
       "published": "2026-10-12T12:00:00.000Z",
       "day": "2026-10-12",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 39,
       "topic": "公共卫生",
       "language": "中文"
@@ -667,7 +709,7 @@
       "category": "国际",
       "published": "2026-10-12T12:00:00.000Z",
       "day": "2026-10-12",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 39,
       "topic": "中东局势",
       "language": "中文"
@@ -681,7 +723,7 @@
       "category": "财经",
       "published": "2026-10-12T12:00:00.000Z",
       "day": "2026-10-12",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 39,
       "topic": "全球动态",
       "language": "中文"
@@ -695,7 +737,7 @@
       "category": "国际",
       "published": "2026-10-12T11:06:34.000Z",
       "day": "2026-10-12",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 39,
       "topic": "全球动态",
       "language": "中文"
@@ -709,7 +751,7 @@
       "category": "国际",
       "published": "2026-10-12T10:38:00.000Z",
       "day": "2026-10-12",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 39,
       "topic": "中东局势",
       "language": "中文"
@@ -723,8 +765,8 @@
       "category": "财经",
       "published": "2026-10-12T05:54:00.000Z",
       "day": "2026-10-12",
-      "collected": "2026-10-14T03:44:08.810Z",
-      "score": 39,
+      "collected": "2026-10-14T06:38:06.974Z",
+      "score": 38,
       "topic": "全球动态",
       "language": "中文"
     },
@@ -737,8 +779,8 @@
       "category": "国际",
       "published": "2026-10-12T04:29:00.000Z",
       "day": "2026-10-12",
-      "collected": "2026-10-14T03:44:09.099Z",
-      "score": 39,
+      "collected": "2026-10-14T06:38:07.052Z",
+      "score": 38,
       "topic": "全球动态",
       "language": "中文"
     },
@@ -793,7 +835,7 @@
       "category": "国际",
       "published": "2026-10-12T00:08:36.000Z",
       "day": "2026-10-12",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 38,
       "topic": "全球动态",
       "language": "中文"
@@ -807,7 +849,7 @@
       "category": "国际",
       "published": "2026-10-12T00:08:15.000Z",
       "day": "2026-10-12",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 38,
       "topic": "全球动态",
       "language": "中文"
@@ -821,7 +863,7 @@
       "category": "环境",
       "published": "2026-10-11T12:08:00.000Z",
       "day": "2026-10-11",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 58,
       "topic": "俄乌局势",
       "language": "中文"
@@ -835,7 +877,7 @@
       "category": "国际",
       "published": "2026-10-11T12:00:00.000Z",
       "day": "2026-10-11",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 38,
       "topic": "全球动态",
       "language": "中文"
@@ -849,7 +891,7 @@
       "category": "财经",
       "published": "2026-10-11T10:56:00.000Z",
       "day": "2026-10-11",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 38,
       "topic": "贸易与产业",
       "language": "中文"
@@ -863,7 +905,7 @@
       "category": "国际",
       "published": "2026-10-11T09:58:00.000Z",
       "day": "2026-10-11",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 38,
       "topic": "全球动态",
       "language": "中文"
@@ -877,7 +919,7 @@
       "category": "国际",
       "published": "2026-10-11T06:44:19.000Z",
       "day": "2026-10-11",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 38,
       "topic": "全球动态",
       "language": "中文"
@@ -891,7 +933,7 @@
       "category": "国际",
       "published": "2026-10-11T06:43:00.000Z",
       "day": "2026-10-11",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 38,
       "topic": "全球动态",
       "language": "中文"
@@ -905,7 +947,7 @@
       "category": "国际",
       "published": "2026-10-11T06:42:00.000Z",
       "day": "2026-10-11",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 38,
       "topic": "俄乌局势",
       "language": "中文"
@@ -919,8 +961,8 @@
       "category": "科技",
       "published": "2026-10-11T06:38:00.000Z",
       "day": "2026-10-11",
-      "collected": "2026-10-14T03:44:08.810Z",
-      "score": 38,
+      "collected": "2026-10-14T06:38:06.974Z",
+      "score": 37,
       "topic": "科技与太空",
       "language": "中文"
     },
@@ -947,7 +989,7 @@
       "category": "国际",
       "published": "2026-10-11T01:12:43.000Z",
       "day": "2026-10-11",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 37,
       "topic": "全球动态",
       "language": "中文"
@@ -961,7 +1003,7 @@
       "category": "国际",
       "published": "2026-10-11T00:41:33.000Z",
       "day": "2026-10-11",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 37,
       "topic": "全球动态",
       "language": "中文"
@@ -1003,7 +1045,7 @@
       "category": "国际",
       "published": "2026-10-10T12:00:00.000Z",
       "day": "2026-10-10",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 37,
       "topic": "全球动态",
       "language": "中文"
@@ -1017,7 +1059,7 @@
       "category": "国际",
       "published": "2026-10-10T12:00:00.000Z",
       "day": "2026-10-10",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 37,
       "topic": "全球动态",
       "language": "中文"
@@ -1031,7 +1073,7 @@
       "category": "国际",
       "published": "2026-10-10T12:00:00.000Z",
       "day": "2026-10-10",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 37,
       "topic": "俄乌局势",
       "language": "中文"
@@ -1045,7 +1087,7 @@
       "category": "国际",
       "published": "2026-10-10T11:37:11.000Z",
       "day": "2026-10-10",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 37,
       "topic": "全球动态",
       "language": "中文"
@@ -1059,7 +1101,7 @@
       "category": "国际",
       "published": "2026-10-10T10:41:00.000Z",
       "day": "2026-10-10",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 37,
       "topic": "全球动态",
       "language": "中文"
@@ -1073,7 +1115,7 @@
       "category": "国际",
       "published": "2026-10-10T10:04:00.000Z",
       "day": "2026-10-10",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 37,
       "topic": "全球动态",
       "language": "中文"
@@ -1087,7 +1129,7 @@
       "category": "财经",
       "published": "2026-10-10T09:59:00.000Z",
       "day": "2026-10-10",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 37,
       "topic": "贸易与产业",
       "language": "中文"
@@ -1101,7 +1143,7 @@
       "category": "政策",
       "published": "2026-10-10T09:57:00.000Z",
       "day": "2026-10-10",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 37,
       "topic": "俄乌局势",
       "language": "中文"
@@ -1115,7 +1157,7 @@
       "category": "国际",
       "published": "2026-10-10T07:48:57.000Z",
       "day": "2026-10-10",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 37,
       "topic": "全球动态",
       "language": "中文"
@@ -1129,8 +1171,8 @@
       "category": "国际",
       "published": "2026-10-10T05:01:42.000Z",
       "day": "2026-10-10",
-      "collected": "2026-10-14T03:44:09.099Z",
-      "score": 37,
+      "collected": "2026-10-14T06:38:07.052Z",
+      "score": 36,
       "topic": "全球动态",
       "language": "中文"
     },
@@ -1185,7 +1227,7 @@
       "category": "财经",
       "published": "2026-10-09T14:14:00.000Z",
       "day": "2026-10-09",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 36,
       "topic": "全球动态",
       "language": "中文"
@@ -1199,7 +1241,7 @@
       "category": "财经",
       "published": "2026-10-09T14:00:00.000Z",
       "day": "2026-10-09",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 16,
       "topic": "全球动态",
       "language": "英文"
@@ -1227,7 +1269,7 @@
       "category": "社会",
       "published": "2026-10-09T12:00:00.000Z",
       "day": "2026-10-09",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 36,
       "topic": "公共卫生",
       "language": "中文"
@@ -1241,7 +1283,7 @@
       "category": "国际",
       "published": "2026-10-09T12:00:00.000Z",
       "day": "2026-10-09",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 36,
       "topic": "全球动态",
       "language": "中文"
@@ -1255,7 +1297,7 @@
       "category": "国际",
       "published": "2026-10-09T12:00:00.000Z",
       "day": "2026-10-09",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 36,
       "topic": "全球动态",
       "language": "中文"
@@ -1269,7 +1311,7 @@
       "category": "财经",
       "published": "2026-10-09T12:00:00.000Z",
       "day": "2026-10-09",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 36,
       "topic": "中东局势",
       "language": "中文"
@@ -1283,7 +1325,7 @@
       "category": "国际",
       "published": "2026-10-09T12:00:00.000Z",
       "day": "2026-10-09",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 36,
       "topic": "俄乌局势",
       "language": "中文"
@@ -1297,7 +1339,7 @@
       "category": "国际",
       "published": "2026-10-09T12:00:00.000Z",
       "day": "2026-10-09",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 36,
       "topic": "全球动态",
       "language": "中文"
@@ -1311,7 +1353,7 @@
       "category": "国际",
       "published": "2026-10-09T12:00:00.000Z",
       "day": "2026-10-09",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 36,
       "topic": "中东局势",
       "language": "中文"
@@ -1325,7 +1367,7 @@
       "category": "国际",
       "published": "2026-10-09T12:00:00.000Z",
       "day": "2026-10-09",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 36,
       "topic": "全球动态",
       "language": "中文"
@@ -1339,7 +1381,7 @@
       "category": "国际",
       "published": "2026-10-09T12:00:00.000Z",
       "day": "2026-10-09",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 56,
       "topic": "全球动态",
       "language": "中文"
@@ -1353,7 +1395,7 @@
       "category": "财经",
       "published": "2026-10-09T12:00:00.000Z",
       "day": "2026-10-09",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 36,
       "topic": "贸易与产业",
       "language": "中文"
@@ -1395,7 +1437,7 @@
       "category": "国际",
       "published": "2026-10-09T00:18:18.000Z",
       "day": "2026-10-09",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 35,
       "topic": "全球动态",
       "language": "中文"
@@ -1409,7 +1451,7 @@
       "category": "财经",
       "published": "2026-10-08T20:30:00.000Z",
       "day": "2026-10-09",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 15,
       "topic": "全球动态",
       "language": "英文"
@@ -1535,7 +1577,7 @@
       "category": "国际",
       "published": "2026-10-08T13:54:00.000Z",
       "day": "2026-10-08",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 35,
       "topic": "全球动态",
       "language": "中文"
@@ -1549,7 +1591,7 @@
       "category": "国际",
       "published": "2026-10-08T12:00:00.000Z",
       "day": "2026-10-08",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 35,
       "topic": "全球动态",
       "language": "中文"
@@ -1563,7 +1605,7 @@
       "category": "财经",
       "published": "2026-10-08T12:00:00.000Z",
       "day": "2026-10-08",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 35,
       "topic": "贸易与产业",
       "language": "中文"
@@ -1577,7 +1619,7 @@
       "category": "国际",
       "published": "2026-10-08T12:00:00.000Z",
       "day": "2026-10-08",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 35,
       "topic": "俄乌局势",
       "language": "中文"
@@ -1591,7 +1633,7 @@
       "category": "国际",
       "published": "2026-10-08T12:00:00.000Z",
       "day": "2026-10-08",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 35,
       "topic": "全球动态",
       "language": "中文"
@@ -1605,7 +1647,7 @@
       "category": "国际",
       "published": "2026-10-08T12:00:00.000Z",
       "day": "2026-10-08",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 35,
       "topic": "中东局势",
       "language": "中文"
@@ -1619,7 +1661,7 @@
       "category": "国际",
       "published": "2026-10-08T12:00:00.000Z",
       "day": "2026-10-08",
-      "collected": "2026-10-14T03:44:08.858Z",
+      "collected": "2026-10-14T06:38:06.598Z",
       "score": 35,
       "topic": "全球动态",
       "language": "中文"
@@ -1661,7 +1703,7 @@
       "category": "财经",
       "published": "2026-10-08T11:30:00.000Z",
       "day": "2026-10-08",
-      "collected": "2026-10-14T03:44:09.242Z",
+      "collected": "2026-10-14T06:38:07.138Z",
       "score": 15,
       "topic": "全球动态",
       "language": "英文"
@@ -1675,7 +1717,7 @@
       "category": "国际",
       "published": "2026-10-08T09:37:08.000Z",
       "day": "2026-10-08",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 35,
       "topic": "全球动态",
       "language": "中文"
@@ -1689,8 +1731,8 @@
       "category": "财经",
       "published": "2026-10-08T06:00:00.000Z",
       "day": "2026-10-08",
-      "collected": "2026-10-14T03:44:09.242Z",
-      "score": 15,
+      "collected": "2026-10-14T06:38:07.138Z",
+      "score": 14,
       "topic": "全球动态",
       "language": "英文"
     },
@@ -1703,8 +1745,8 @@
       "category": "国际",
       "published": "2026-10-08T05:29:23.000Z",
       "day": "2026-10-08",
-      "collected": "2026-10-14T03:44:09.099Z",
-      "score": 35,
+      "collected": "2026-10-14T06:38:07.052Z",
+      "score": 34,
       "topic": "全球动态",
       "language": "中文"
     },
@@ -1717,8 +1759,8 @@
       "category": "国际",
       "published": "2026-10-08T04:41:43.000Z",
       "day": "2026-10-08",
-      "collected": "2026-10-14T03:44:09.099Z",
-      "score": 35,
+      "collected": "2026-10-14T06:38:07.052Z",
+      "score": 34,
       "topic": "全球动态",
       "language": "中文"
     },
@@ -1731,7 +1773,7 @@
       "category": "财经",
       "published": "2026-10-07T18:00:00.000Z",
       "day": "2026-10-08",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 14,
       "topic": "全球动态",
       "language": "英文"
@@ -1745,7 +1787,7 @@
       "category": "财经",
       "published": "2026-10-07T14:28:00.000Z",
       "day": "2026-10-07",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 34,
       "topic": "贸易与产业",
       "language": "中文"
@@ -1759,7 +1801,7 @@
       "category": "科技",
       "published": "2026-10-07T14:02:00.000Z",
       "day": "2026-10-07",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 34,
       "topic": "科技与太空",
       "language": "中文"
@@ -1899,7 +1941,7 @@
       "category": "国际",
       "published": "2026-10-07T09:49:00.000Z",
       "day": "2026-10-07",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 34,
       "topic": "全球动态",
       "language": "中文"
@@ -1913,7 +1955,7 @@
       "category": "财经",
       "published": "2026-10-07T08:00:00.000Z",
       "day": "2026-10-07",
-      "collected": "2026-10-14T03:44:09.242Z",
+      "collected": "2026-10-14T06:38:07.138Z",
       "score": 14,
       "topic": "全球动态",
       "language": "英文"
@@ -1927,7 +1969,7 @@
       "category": "财经",
       "published": "2026-10-06T13:59:00.000Z",
       "day": "2026-10-06",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 33,
       "topic": "全球动态",
       "language": "中文"
@@ -1941,7 +1983,7 @@
       "category": "财经",
       "published": "2026-10-06T13:59:00.000Z",
       "day": "2026-10-06",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 33,
       "topic": "贸易与产业",
       "language": "中文"
@@ -1955,7 +1997,7 @@
       "category": "财经",
       "published": "2026-10-06T13:00:00.000Z",
       "day": "2026-10-06",
-      "collected": "2026-10-14T03:44:09.242Z",
+      "collected": "2026-10-14T06:38:07.138Z",
       "score": 13,
       "topic": "全球动态",
       "language": "英文"
@@ -1969,7 +2011,7 @@
       "category": "财经",
       "published": "2026-10-06T13:00:00.000Z",
       "day": "2026-10-06",
-      "collected": "2026-10-14T03:44:09.242Z",
+      "collected": "2026-10-14T06:38:07.138Z",
       "score": 13,
       "topic": "全球动态",
       "language": "英文"
@@ -2095,7 +2137,7 @@
       "category": "财经",
       "published": "2026-10-06T10:35:00.000Z",
       "day": "2026-10-06",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 33,
       "topic": "全球动态",
       "language": "中文"
@@ -2109,7 +2151,7 @@
       "category": "科技",
       "published": "2026-10-06T10:16:00.000Z",
       "day": "2026-10-06",
-      "collected": "2026-10-14T03:44:08.810Z",
+      "collected": "2026-10-14T06:38:06.974Z",
       "score": 33,
       "topic": "科技与太空",
       "language": "中文"
@@ -2123,10 +2165,24 @@
       "category": "财经",
       "published": "2026-10-06T07:00:00.000Z",
       "day": "2026-10-06",
-      "collected": "2026-10-14T03:44:09.242Z",
+      "collected": "2026-10-14T06:38:07.138Z",
       "score": 13,
       "topic": "全球动态",
       "language": "英文"
+    },
+    {
+      "id": "https://www.dw.com/zh/%E4%BF%84%E9%98%B2%E7%96%AB%E7%A0%94%E7%A9%B6%E6%89%80%E5%93%A1%E5%B7%A5%E7%97%85%E9%80%9D-%E5%AE%98%E6%96%B9%E8%AA%8D%E5%AE%9A%E6%AD%BB%E5%9B%A0%E3%80%8C%E4%B8%8D%E6%98%8E%E8%82%BA%E7%82%8E%E3%80%8D/a-79558365?maca=chi-rss-chi-all-1127-rdf",
+      "title": "俄防疫研究所員工病逝 官方認定死因「不明肺炎」",
+      "summary": "俄羅斯西伯利亞一間防疫研究所實驗室工作人員日前因病死亡，官方認定為「原因不明的肺炎」。當地媒體曾報導她疑似感染肺鼠疫，俄羅斯政府則表示，檢驗未發現與其工作相關的病原體。美國總統川普表示美方正密切關注情勢，並願意對俄國提供協助。",
+      "url": "https://www.dw.com/zh/%E4%BF%84%E9%98%B2%E7%96%AB%E7%A0%94%E7%A9%B6%E6%89%80%E5%93%A1%E5%B7%A5%E7%97%85%E9%80%9D-%E5%AE%98%E6%96%B9%E8%AA%8D%E5%AE%9A%E6%AD%BB%E5%9B%A0%E3%80%8C%E4%B8%8D%E6%98%8E%E8%82%BA%E7%82%8E%E3%80%8D/a-79558365?maca=chi-rss-chi-all-1127-rdf",
+      "source": "德国之声",
+      "category": "国际",
+      "published": "2026-10-06T05:04:00.000Z",
+      "day": "2026-10-06",
+      "collected": "2026-10-14T06:38:06.974Z",
+      "score": 32,
+      "topic": "全球动态",
+      "language": "中文"
     },
     {
       "id": "https://www.bbc.com/zhongwen/articles/ck0j0wv57jw7o/trad?at_medium=RSS&at_campaign=rss",
@@ -2151,7 +2207,7 @@
       "category": "财经",
       "published": "2026-10-05T20:30:00.000Z",
       "day": "2026-10-06",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 12,
       "topic": "全球动态",
       "language": "英文"
@@ -2291,7 +2347,7 @@
       "category": "财经",
       "published": "2026-10-05T08:00:00.000Z",
       "day": "2026-10-05",
-      "collected": "2026-10-14T03:44:09.242Z",
+      "collected": "2026-10-14T06:38:07.138Z",
       "score": 32,
       "topic": "货币与利率",
       "language": "英文"
@@ -2305,7 +2361,7 @@
       "category": "国际",
       "published": "2026-10-05T00:14:01.000Z",
       "day": "2026-10-05",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 31,
       "topic": "全球动态",
       "language": "中文"
@@ -2319,7 +2375,7 @@
       "category": "国际",
       "published": "2026-10-03T03:42:21.000Z",
       "day": "2026-10-03",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 29,
       "topic": "全球动态",
       "language": "中文"
@@ -2333,7 +2389,7 @@
       "category": "国际",
       "published": "2026-10-03T03:16:15.000Z",
       "day": "2026-10-03",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 29,
       "topic": "全球动态",
       "language": "中文"
@@ -2347,7 +2403,7 @@
       "category": "财经",
       "published": "2026-10-02T20:45:00.000Z",
       "day": "2026-10-03",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 9,
       "topic": "全球动态",
       "language": "英文"
@@ -2361,7 +2417,7 @@
       "category": "政策",
       "published": "2026-10-02T20:00:00.000Z",
       "day": "2026-10-03",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 9,
       "topic": "政策与治理",
       "language": "英文"
@@ -2375,7 +2431,7 @@
       "category": "财经",
       "published": "2026-10-02T15:00:00.000Z",
       "day": "2026-10-02",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 9,
       "topic": "全球动态",
       "language": "英文"
@@ -2389,7 +2445,7 @@
       "category": "财经",
       "published": "2026-10-02T13:00:00.000Z",
       "day": "2026-10-02",
-      "collected": "2026-10-14T03:44:09.242Z",
+      "collected": "2026-10-14T06:38:07.138Z",
       "score": 29,
       "topic": "货币与利率",
       "language": "英文"
@@ -2445,7 +2501,7 @@
       "category": "财经",
       "published": "2026-10-02T11:30:00.000Z",
       "day": "2026-10-02",
-      "collected": "2026-10-14T03:44:09.242Z",
+      "collected": "2026-10-14T06:38:07.138Z",
       "score": 9,
       "topic": "全球动态",
       "language": "英文"
@@ -2459,7 +2515,7 @@
       "category": "财经",
       "published": "2026-10-01T15:30:00.000Z",
       "day": "2026-10-01",
-      "collected": "2026-10-14T03:44:09.242Z",
+      "collected": "2026-10-14T06:38:07.138Z",
       "score": 8,
       "topic": "全球动态",
       "language": "英文"
@@ -2473,7 +2529,7 @@
       "category": "财经",
       "published": "2026-10-01T13:30:00.000Z",
       "day": "2026-10-01",
-      "collected": "2026-10-14T03:44:09.242Z",
+      "collected": "2026-10-14T06:38:07.138Z",
       "score": 8,
       "topic": "科技与太空",
       "language": "英文"
@@ -2487,8 +2543,8 @@
       "category": "国际",
       "published": "2026-10-01T06:20:54.000Z",
       "day": "2026-10-01",
-      "collected": "2026-10-14T03:44:09.099Z",
-      "score": 28,
+      "collected": "2026-10-14T06:38:07.052Z",
+      "score": 27,
       "topic": "中东局势",
       "language": "中文"
     },
@@ -2501,7 +2557,7 @@
       "category": "财经",
       "published": "2026-09-30T17:00:00.000Z",
       "day": "2026-10-01",
-      "collected": "2026-10-14T03:44:09.242Z",
+      "collected": "2026-10-14T06:38:07.138Z",
       "score": 7,
       "topic": "全球动态",
       "language": "英文"
@@ -2515,7 +2571,7 @@
       "category": "财经",
       "published": "2026-09-30T15:45:00.000Z",
       "day": "2026-09-30",
-      "collected": "2026-10-14T03:44:09.242Z",
+      "collected": "2026-10-14T06:38:07.138Z",
       "score": 27,
       "topic": "货币与利率",
       "language": "英文"
@@ -2529,7 +2585,7 @@
       "category": "财经",
       "published": "2026-09-30T13:00:00.000Z",
       "day": "2026-09-30",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 7,
       "topic": "全球动态",
       "language": "英文"
@@ -2543,8 +2599,8 @@
       "category": "科技",
       "published": "2026-09-30T04:39:30.000Z",
       "day": "2026-09-30",
-      "collected": "2026-10-14T03:44:09.099Z",
-      "score": 27,
+      "collected": "2026-10-14T06:38:07.052Z",
+      "score": 26,
       "topic": "科技与太空",
       "language": "中文"
     },
@@ -2557,7 +2613,7 @@
       "category": "财经",
       "published": "2026-09-30T02:20:00.000Z",
       "day": "2026-09-30",
-      "collected": "2026-10-14T03:44:09.242Z",
+      "collected": "2026-10-14T06:38:07.138Z",
       "score": 6,
       "topic": "全球动态",
       "language": "英文"
@@ -2571,7 +2627,7 @@
       "category": "财经",
       "published": "2026-09-29T20:00:00.000Z",
       "day": "2026-09-30",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 6,
       "topic": "全球动态",
       "language": "英文"
@@ -2599,8 +2655,8 @@
       "category": "国际",
       "published": "2026-09-29T03:48:29.000Z",
       "day": "2026-09-29",
-      "collected": "2026-10-14T03:44:09.099Z",
-      "score": 26,
+      "collected": "2026-10-14T06:38:07.052Z",
+      "score": 25,
       "topic": "贸易与产业",
       "language": "中文"
     },
@@ -2613,7 +2669,7 @@
       "category": "财经",
       "published": "2026-09-25T20:30:00.000Z",
       "day": "2026-09-26",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 2,
       "topic": "全球动态",
       "language": "英文"
@@ -2627,8 +2683,8 @@
       "category": "国际",
       "published": "2026-09-25T04:56:06.000Z",
       "day": "2026-09-25",
-      "collected": "2026-10-14T03:44:09.099Z",
-      "score": 22,
+      "collected": "2026-10-14T06:38:07.052Z",
+      "score": 21,
       "topic": "全球动态",
       "language": "中文"
     },
@@ -2641,7 +2697,7 @@
       "category": "财经",
       "published": "2026-09-24T18:30:00.000Z",
       "day": "2026-09-25",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 1,
       "topic": "全球动态",
       "language": "英文"
@@ -2655,7 +2711,7 @@
       "category": "财经",
       "published": "2026-09-24T15:00:00.000Z",
       "day": "2026-09-24",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 1,
       "topic": "全球动态",
       "language": "英文"
@@ -2669,7 +2725,7 @@
       "category": "财经",
       "published": "2026-09-22T20:30:00.000Z",
       "day": "2026-09-23",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 0,
       "topic": "全球动态",
       "language": "英文"
@@ -2683,7 +2739,7 @@
       "category": "国际",
       "published": "2026-09-22T14:36:55.000Z",
       "day": "2026-09-22",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 20,
       "topic": "全球动态",
       "language": "中文"
@@ -2697,7 +2753,7 @@
       "category": "财经",
       "published": "2026-09-18T15:00:00.000Z",
       "day": "2026-09-18",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 0,
       "topic": "全球动态",
       "language": "英文"
@@ -2711,7 +2767,7 @@
       "category": "财经",
       "published": "2026-09-18T15:00:00.000Z",
       "day": "2026-09-18",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 0,
       "topic": "全球动态",
       "language": "英文"
@@ -2725,7 +2781,7 @@
       "category": "财经",
       "published": "2026-09-16T18:00:00.000Z",
       "day": "2026-09-17",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 20,
       "topic": "货币与利率",
       "language": "英文"
@@ -2739,7 +2795,7 @@
       "category": "财经",
       "published": "2026-09-16T18:00:00.000Z",
       "day": "2026-09-17",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 20,
       "topic": "货币与利率",
       "language": "英文"
@@ -2753,7 +2809,7 @@
       "category": "国际",
       "published": "2026-09-16T04:47:26.000Z",
       "day": "2026-09-16",
-      "collected": "2026-10-14T03:44:09.099Z",
+      "collected": "2026-10-14T06:38:07.052Z",
       "score": 20,
       "topic": "全球动态",
       "language": "中文"
@@ -2767,7 +2823,7 @@
       "category": "财经",
       "published": "2026-09-11T14:00:00.000Z",
       "day": "2026-09-11",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 0,
       "topic": "全球动态",
       "language": "英文"
@@ -2781,7 +2837,7 @@
       "category": "财经",
       "published": "2026-09-10T20:00:00.000Z",
       "day": "2026-09-11",
-      "collected": "2026-10-14T03:44:08.526Z",
+      "collected": "2026-10-14T06:38:06.701Z",
       "score": 0,
       "topic": "全球动态",
       "language": "英文"
@@ -2815,7 +2871,7 @@
       "language": "英文"
     }
   ],
-  "updated": "2026-10-14T03:44:09.242Z",
+  "updated": "2026-10-14T06:38:07.138Z",
   "sources": [
     {
       "name": "联合国新闻",
