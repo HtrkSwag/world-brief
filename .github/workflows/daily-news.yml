@@ -1,0 +1,54 @@
+name: Daily news to Tencent CloudBase
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '0 0 * * *' # Daily 08:00 Asia/Shanghai; may be delayed by GitHub
+permissions:
+  contents: read
+concurrency:
+  group: world-brief-cloudbase
+  cancel-in-progress: false
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    env:
+      TCB_ENV_ID: ${{ secrets.TCB_ENV_ID }}
+      TCB_SECRET_ID: ${{ secrets.TCB_SECRET_ID }}
+      TCB_SECRET_KEY: ${{ secrets.TCB_SECRET_KEY }}
+      TCB_SITE_URL: https://world-htrkswag-d3g8erky722b7e82b.webapps.tcloudbase.com/
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - name: Check deployment settings
+        run: |
+          node -e 'for (const key of ["TCB_ENV_ID", "TCB_SECRET_ID", "TCB_SECRET_KEY"]) { if (!process.env[key]) throw Error("Missing repository secret: " + key); }'
+      - run: npm ci
+      - name: Collect and merge news
+        run: npm run update
+      - name: Save news history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/news.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update daily news archive"
+            git push
+          fi
+      - run: npm run build
+      - run: npm run check
+      - name: Install CloudBase CLI
+        run: npm install -g @cloudbase/cli
+      - name: Authenticate to CloudBase
+        run: tcb login --apiKeyId "$TCB_SECRET_ID" --apiKey "$TCB_SECRET_KEY"
+      - name: Deploy static website
+        run: tcb hosting deploy ./dist / -e "$TCB_ENV_ID"
+      - name: Verify published news
+        run: node scripts/verify-deployment.mjs
