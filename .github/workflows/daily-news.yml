@@ -49,6 +49,6 @@ jobs:
       - name: Authenticate to CloudBase
         run: tcb login --cloudbase-api-key "$TCB_API_KEY" -e "$TCB_ENV_ID"
       - name: Deploy static website
-        run: tcb app deploy "$TCB_APP_NAME" --cwd ./dist --framework static --install-command "" --build-command "" --output-dir ./ --force -e "$TCB_ENV_ID"
+        run: tcb app deploy "$TCB_APP_NAME" --cwd ./dist --framework static --install-command "" --build-command "" --output-dir ./ --deploy-path "/$TCB_APP_NAME" --force --yes -e "$TCB_ENV_ID"
       - name: Verify published news
         run: node scripts/verify-deployment.mjs
