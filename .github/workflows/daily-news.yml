@@ -18,8 +18,7 @@ jobs:
       contents: write
     env:
       TCB_ENV_ID: ${{ secrets.TCB_ENV_ID }}
-      TCB_SECRET_ID: ${{ secrets.TCB_SECRET_ID }}
-      TCB_SECRET_KEY: ${{ secrets.TCB_SECRET_KEY }}
+      TCB_API_KEY: ${{ secrets.TCB_API_KEY }}
       TCB_SITE_URL: https://world-htrkswag-d3g8erky722b7e82b.webapps.tcloudbase.com/
     steps:
       - uses: actions/checkout@v6
@@ -29,7 +28,7 @@ jobs:
           cache: npm
       - name: Check deployment settings
         run: |
-          node -e 'for (const key of ["TCB_ENV_ID", "TCB_SECRET_ID", "TCB_SECRET_KEY"]) { if (!process.env[key]) throw Error("Missing repository secret: " + key); }'
+          node -e 'for (const key of ["TCB_ENV_ID", "TCB_API_KEY"]) { if (!process.env[key]) throw Error("Missing repository secret: " + key); }'
       - run: npm ci
       - name: Collect and merge news
         run: npm run update
@@ -47,7 +46,7 @@ jobs:
       - name: Install CloudBase CLI
         run: npm install -g @cloudbase/cli
       - name: Authenticate to CloudBase
-        run: tcb login --apiKeyId "$TCB_SECRET_ID" --apiKey "$TCB_SECRET_KEY"
+        run: tcb login --cloudbase-api-key "$TCB_API_KEY" -e "$TCB_ENV_ID"
       - name: Deploy static website
         run: tcb hosting deploy ./dist / -e "$TCB_ENV_ID"
       - name: Verify published news
