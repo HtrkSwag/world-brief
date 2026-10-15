@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
   schedule:
-    - cron: '0 0 * * *' # Daily 08:00 Asia/Shanghai; may be delayed by GitHub
+    - cron: '17 0 * * *' # Daily 08:00 Asia/Shanghai; may be delayed by GitHub
 permissions:
   contents: read
 concurrency:
@@ -23,7 +23,7 @@ jobs:
       TCB_SITE_URL: https://world-htrkswag-d3g8erky722b7e82b.webapps.tcloudbase.com/
     steps:
       - uses: actions/checkout@v6
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
           node-version: '24'
           cache: npm
